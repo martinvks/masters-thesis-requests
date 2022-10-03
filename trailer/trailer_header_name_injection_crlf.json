@@ -1,0 +1,10 @@
+{
+  "Method": "${REQUEST_METHOD}",
+  "Body": "b",
+  "Trailer": [
+    {
+      "Name": "x: val\r\ntrailer",
+      "Value": "val"
+    }
+  ]
+}

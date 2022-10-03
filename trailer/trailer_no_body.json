@@ -1,0 +1,15 @@
+{
+  "Method": "${REQUEST_METHOD}",
+  "Headers": [
+    {
+      "Name": "trailer",
+      "Value": "x-trailer"
+    }
+  ],
+  "Trailer": [
+    {
+      "Name": "x-trailer",
+      "Value": "val"
+    }
+  ]
+}

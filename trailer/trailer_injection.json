@@ -1,0 +1,16 @@
+{
+  "Method": "${REQUEST_METHOD}",
+  "Body": "b",
+  "Headers": [
+    {
+      "Name": "trailer",
+      "Value": "x-trailer\r\nx-another: val"
+    }
+  ],
+  "Trailer": [
+    {
+      "Name": "x-trailer",
+      "Value": "val"
+    }
+  ]
+}

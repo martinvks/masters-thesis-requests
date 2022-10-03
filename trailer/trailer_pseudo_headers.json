@@ -1,0 +1,22 @@
+{
+  "Method": "${REQUEST_METHOD}",
+  "Body": "b",
+  "Trailer": [
+    {
+      "Name": ":authority",
+      "value": "test.com"
+    },
+    {
+      "Name": ":method",
+      "Value": "GET"
+    },
+    {
+      "Name": ":path",
+      "Value": "/"
+    },
+    {
+      "Name": ":scheme",
+      "Value": "https"
+    }
+  ]
+}
