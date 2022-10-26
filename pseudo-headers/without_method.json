@@ -1,8 +1,8 @@
 {
-  "trailer": {
+  "addDefaultHeaders": false,
+  "headers": {
     ":authority": "${TARGET_HOST}",
-    ":method": "POST",
-    ":path": "/other",
+    ":path": "/",
     ":scheme": "https"
   }
 }

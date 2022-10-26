@@ -1,0 +1,21 @@
+{
+  "addDefaultHeaders": false,
+  "headers": {
+    ":authority": [
+      "${TARGET_HOST}",
+      "${TARGET_HOST}"
+    ],
+    ":method": [
+      "GET",
+      "POST"
+    ],
+    ":path": [
+      "/",
+      "/admin"
+    ],
+    ":scheme": [
+      "https",
+      "http"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "addDefaultHeaders": false,
+  "headers": {
+    ":authority": "${TARGET_HOST}",
+    ":method": "GET",
+    ":path": "/"
+  }
+}

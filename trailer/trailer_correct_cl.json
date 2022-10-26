@@ -1,10 +1,10 @@
 {
   "headers": {
     ":method": "POST",
-    "trailer": ":method"
+    "trailer": "content-length"
   },
   "body": "b",
   "trailer": {
-    ":method": "GET"
+    "content-length": "1"
   }
 }

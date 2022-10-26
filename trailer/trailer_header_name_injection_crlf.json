@@ -1,10 +1,9 @@
 {
-  "Method": "${REQUEST_METHOD}",
-  "Body": "b",
-  "Trailer": [
-    {
-      "Name": "x: val\r\ntrailer",
-      "Value": "val"
-    }
-  ]
+  "headers": {
+    ":method": "POST"
+  },
+  "body": "b",
+  "trailer": {
+    "x: val\r\ntrailer": "val"
+  }
 }

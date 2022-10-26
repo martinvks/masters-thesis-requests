@@ -1,1 +1,1 @@
-# master-thesis-requests
+# masters-thesis-requests

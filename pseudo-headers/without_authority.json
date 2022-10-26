@@ -1,0 +1,8 @@
+{
+  "addDefaultHeaders": false,
+  "headers": {
+    ":method": "GET",
+    ":path": "/",
+    ":scheme": "https"
+  }
+}

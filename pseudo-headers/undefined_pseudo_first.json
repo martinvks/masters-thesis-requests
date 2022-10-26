@@ -1,0 +1,10 @@
+{
+  "addDefaultHeaders": false,
+  "headers": {
+    ":a": "test",
+    ":authority": "${TARGET_HOST}",
+    ":method": "GET",
+    ":path": "/",
+    ":scheme": "https"
+  }
+}
