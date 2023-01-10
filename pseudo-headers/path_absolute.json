@@ -1,0 +1,5 @@
+{
+  "headers": {
+    ":path": "https://${TARGET_HOST}"
+  }
+}

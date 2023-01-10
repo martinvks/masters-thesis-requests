@@ -1,0 +1,6 @@
+{
+  "headers": {
+    ":authority": "",
+    "host": "${TARGET_HOST}"
+  }
+}
