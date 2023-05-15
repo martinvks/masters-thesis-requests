@@ -1,0 +1,24 @@
+{
+  "headers": {
+    "alpn": "mvks",
+    "alt-svc": "mvks",
+    "alt-used": "mvks",
+    "alternates": "mvks",
+    "amp-cache-transform": "mvks",
+    "apply-to-redirect-ref": "mvks",
+    "authentication-control": "mvks",
+    "authentication-info": "mvks",
+    "authorization": "mvks",
+    "c-ext": "mvks",
+    "c-man": "mvks",
+    "c-opt": "mvks",
+    "c-pep": "mvks",
+    "c-pep-info": "mvks",
+    "cache-control": "mvks",
+    "cache-status": "mvks",
+    "cal-managed-id": "mvks",
+    "caldav-timezones": "mvks",
+    "capsule-protocol": "mvks",
+    "cdn-cache-control": "mvks"
+  }
+}

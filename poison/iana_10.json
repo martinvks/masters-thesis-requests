@@ -1,0 +1,22 @@
+{
+  "headers": {
+    "timing-allow-origin": "mvks",
+    "topic": "mvks",
+    "traceparent": "mvks",
+    "tracestate": "mvks",
+    "trailer": "mvks",
+    "ttl": "mvks",
+    "urgency": "mvks",
+    "uri": "mvks",
+    "user-agent": "mvks",
+    "variant-vary": "mvks",
+    "vary": "mvks",
+    "via": "mvks",
+    "want-digest": "mvks",
+    "warning": "mvks",
+    "www-authenticate": "mvks",
+    "x-content-type-options": "mvks",
+    "x-frame-options": "mvks",
+    "*": "mvks"
+  }
+}

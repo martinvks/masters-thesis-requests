@@ -1,0 +1,24 @@
+{
+  "headers": {
+    "p3p": "mvks",
+    "pep": "mvks",
+    "pep-info": "mvks",
+    "pics-label": "mvks",
+    "ping-from": "mvks",
+    "ping-to": "mvks",
+    "position": "mvks",
+    "pragma": "mvks",
+    "prefer": "mvks",
+    "preference-applied": "mvks",
+    "priority": "mvks",
+    "profileobject": "mvks",
+    "protocol": "mvks",
+    "protocol-info": "mvks",
+    "protocol-query": "mvks",
+    "protocol-request": "mvks",
+    "proxy-authenticate": "mvks",
+    "proxy-authentication-info": "mvks",
+    "proxy-authorization": "mvks",
+    "proxy-features": "mvks"
+  }
+}

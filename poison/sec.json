@@ -1,0 +1,8 @@
+{
+  "headers": {
+    "sec-fetch-des": "audio",
+    "sec-fetch-mode": "websocket",
+    "sec-fetch-site": "cross-site",
+    "sec-fetch-user": "mvks"
+  }
+}

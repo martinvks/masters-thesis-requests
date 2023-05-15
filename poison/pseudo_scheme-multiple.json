@@ -1,0 +1,8 @@
+{
+  "headers": {
+    ":scheme": [
+      "https",
+      "http"
+    ]
+  }
+}

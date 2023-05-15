@@ -1,0 +1,24 @@
+{
+  "headers": {
+    "proxy-instruction": "mvks",
+    "proxy-status": "mvks",
+    "public": "mvks",
+    "public-key-pins": "mvks",
+    "public-key-pins-report-only": "mvks",
+    "redirect-ref": "mvks",
+    "referer": "mvks",
+    "referer-root": "mvks",
+    "refresh": "mvks",
+    "repeatability-client-id": "mvks",
+    "repeatability-first-sent": "mvks",
+    "repeatability-request-id": "mvks",
+    "repeatability-result": "mvks",
+    "replay-nonce": "mvks",
+    "retry-after": "mvks",
+    "safe": "mvks",
+    "schedule-reply": "mvks",
+    "schedule-tag": "mvks",
+    "sec-gpc": "mvks",
+    "sec-token-binding": "mvks"
+  }
+}

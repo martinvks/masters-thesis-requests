@@ -1,0 +1,23 @@
+{
+  "headers": {
+    "expect-ct": "mvks",
+    "expires": "mvks",
+    "ext": "mvks",
+    "forwarded": "mvks",
+    "from": "mvks",
+    "getprofile": "mvks",
+    "hobareg": "mvks",
+    "if": "mvks",
+    "if-none-match": "mvks",
+    "if-range": "mvks",
+    "if-schedule-tag-match": "mvks",
+    "if-unmodified-since": "mvks",
+    "im": "mvks",
+    "include-referred-token-binding-id": "mvks",
+    "isolation": "mvks",
+    "label": "mvks",
+    "last-event-id": "mvks",
+    "last-modified": "mvks",
+    "link": "mvks"
+  }
+}

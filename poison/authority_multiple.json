@@ -1,0 +1,8 @@
+{
+  "headers": {
+    ":authority": [
+      "${TARGET_HOST}",
+      "test.no"
+    ]
+  }
+}

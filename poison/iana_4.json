@@ -1,0 +1,24 @@
+{
+  "headers": {
+    "cookie": "mvks",
+    "cookie2": "mvks",
+    "cross-origin-embedder-policy": "mvks",
+    "cross-origin-embedder-policy-report-only": "mvks",
+    "cross-origin-opener-policy": "mvks",
+    "cross-origin-opener-policy-report-only": "mvks",
+    "cross-origin-resource-policy": "mvks",
+    "dasl": "mvks",
+    "date": "mvks",
+    "dav": "mvks",
+    "default-style": "mvks",
+    "delta-base": "mvks",
+    "depth": "mvks",
+    "derived-from": "mvks",
+    "destination": "mvks",
+    "differential-id": "mvks",
+    "digest": "mvks",
+    "early-data": "mvks",
+    "ediint-features": "mvks",
+    "etag": "mvks"
+  }
+}

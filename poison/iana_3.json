@@ -1,0 +1,24 @@
+{
+  "headers": {
+    "cdn-loop": "mvks",
+    "cert-not-after": "mvks",
+    "cert-not-before": "mvks",
+    "clear-site-data": "mvks",
+    "close": "mvks",
+    "configuration-context": "mvks",
+    "content-base": "mvks",
+    "content-disposition": "mvks",
+    "content-encoding": "mvks",
+    "content-id": "mvks",
+    "content-language": "mvks",
+    "content-location": "mvks",
+    "content-md5": "mvks",
+    "content-range": "mvks",
+    "content-script-type": "mvks",
+    "content-security-policy": "mvks",
+    "content-security-policy-report-only": "mvks",
+    "content-style-type": "mvks",
+    "content-type": "mvks",
+    "content-version": "mvks"
+  }
+}

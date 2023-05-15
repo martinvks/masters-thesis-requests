@@ -1,0 +1,25 @@
+{
+  "headers": {
+    "location": "mvks",
+    "lock-token": "mvks",
+    "man": "mvks",
+    "memento-datetime": "mvks",
+    "meter": "mvks",
+    "method-check": "mvks",
+    "method-check-expires": "mvks",
+    "mime-version": "mvks",
+    "negotiate": "mvks",
+    "odata-entityid": "mvks",
+    "odata-isolation": "mvks",
+    "odata-maxversion": "mvks",
+    "odata-version": "mvks",
+    "opt": "mvks",
+    "optional-www-authenticate": "mvks",
+    "ordering-type": "mvks",
+    "origin": "https://martinvks.no",
+    "origin-agent-cluster": "mvks",
+    "oscore": "mvks",
+    "oslc-core-version": "mvks",
+    "overwrite": "mvks"
+  }
+}

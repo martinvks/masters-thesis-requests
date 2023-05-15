@@ -1,0 +1,5 @@
+{
+  "headers": {
+    ":authority": "http://${TARGET_HOST}"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "headers": {
+    "a-im": "mvks",
+    "accept-additions": "mvks",
+    "accept-ch": "mvks",
+    "accept-datetime": "mvks",
+    "accept-features": "mvks",
+    "accept-patch": "mvks",
+    "accept-post": "mvks",
+    "accept-ranges": "mvks",
+    "access-control": "mvks",
+    "access-control-allow-credentials": "mvks",
+    "access-control-allow-headers": "mvks",
+    "access-control-allow-methods": "mvks",
+    "access-control-allow-origin": "mvks",
+    "access-control-expose-headers": "mvks",
+    "access-control-max-age": "mvks",
+    "access-control-request-headers": "mvks",
+    "access-control-request-method": "mvks",
+    "age": "mvks",
+    "allow": "mvks"
+  }
+}

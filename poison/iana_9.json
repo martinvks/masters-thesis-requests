@@ -1,0 +1,25 @@
+{
+  "headers": {
+    "sec-websocket-accept": "mvks",
+    "sec-websocket-extensions": "mvks",
+    "sec-websocket-key": "mvks",
+    "sec-websocket-protocol": "mvks",
+    "sec-websocket-version": "mvks",
+    "security-scheme": "mvks",
+    "server": "mvks",
+    "server-timing": "mvks",
+    "service-worker-navigation-preload": "mvks",
+    "set-cookie": "mvks",
+    "set-cookie2": "mvks",
+    "setprofile": "mvks",
+    "slug": "mvks",
+    "soapaction": "mvks",
+    "status-uri": "mvks",
+    "strict-transport-security": "mvks",
+    "sunset": "mvks",
+    "surrogate-capability": "mvks",
+    "surrogate-control": "mvks",
+    "tcn": "mvks",
+    "timeout": "mvks"
+  }
+}
